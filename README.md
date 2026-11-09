@@ -1,9 +1,11 @@
 ## Hi there 👋
 
 My name is Jani.
+
 I'm currently studying game development at Taitotalo, not looking for projects or collaborations at the moment.
 
 Here are some of the projects that i've been involved in so far;
+
 2D platformer https://github.com/JaniPeltola/Forest-Punk
 
 
