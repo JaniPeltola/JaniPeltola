@@ -7,10 +7,10 @@ I'm currently studying game development at Taitotalo, not looking for projects o
 
 Here are some of the projects that i've been involved in so far;
 
-[Hoppin' & Poppin'](https://github.com/JaniPeltola/Forest-Punk)
+[Hoppin' & Poppin'](https://github.com/crtlvr/Ryhma1GIT))
 2D platformer where you play as a mouse with a tragic backstory, seeking revenge!
 
-[Forest Punk](https://github.com/crtlvr/Ryhma1GIT)
+[Forest Punk](https://github.com/JaniPeltola/Forest-Punk)
 3D shooter where you defend your farm from rabid lambs.
 
 <!--
