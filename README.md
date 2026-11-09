@@ -7,10 +7,10 @@ I'm currently studying game development at Taitotalo, not looking for projects o
 
 Here are some of the projects that i've been involved in so far;
 
-##Hoppin' & Poppin'
+##Hoppin' & Poppin'##
 2D platformer https://github.com/JaniPeltola/Forest-Punk
 
-##Forest Punk
+##Forest Punk##
 3D shooter; https://github.com/crtlvr/Ryhma1GIT
 
 <!--
